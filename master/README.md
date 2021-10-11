@@ -1,7 +1,3 @@
-# my_app
-
-Meet people. Do stuff. Make friends.
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
